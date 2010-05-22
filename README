@@ -1,0 +1,4 @@
+# space-navigator
+
+This is a Clojure library to enable efficient communication with 3DConnexion's 3D mouse - The Space Navigator.
+
